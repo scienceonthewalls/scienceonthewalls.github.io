@@ -20,7 +20,7 @@ Who are we?
 
 * International interdisciplinary team
 * 3 neighbourhood associations in Cova da Moura
-* $>60$ scientists from institutes in Lisbon
+* \> 60 scientists from institutes in Lisbon
 * Professional artists
 
 Building scientific literacy
