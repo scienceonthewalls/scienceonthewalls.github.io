@@ -7,7 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-Add
+Our Vision
+----
+No one is left behind: all children deserve the same opportunities accessing scientific and artistic education.
+{: .notice}
+
+Our Mission
+---
+Researchers and artists uniting efforts to build bridges across communities and provide arts and science education to children.
+{: .notice}
+
+Our Values
+---
+Equality - Purpose - Co-construction - Drive the change
+{: .notice}
 
 
 What is Science on the Walls?
