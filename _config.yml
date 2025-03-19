@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "purple-theme" # Update this to the theme that supports purple color scheme
+site_theme               : "default"
 title                    : "Science on the Walls"
 title_separator          : "-"
 name                     : &name "Science on the Walls"
