@@ -12,98 +12,95 @@ redirect_from:
 
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Timeline</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #1a1440;
-            color: white;
-            text-align: center;
-        }
-        .timeline {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            position: relative;
-            padding: 20px;
-        }
-        .timeline::before {
-            content: "";
-            position: absolute;
-            width: 6px;
-            background-color: #d68fff;
-            top: 0;
-            bottom: 0;
-            left: 50%;
-            transform: translateX(-50%);
-        }
-        .event {
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            width: 50%;
-            margin: 20px 0;
-            position: relative;
-        }
-        .event img {
-            width: 150px;
-            height: 150px;
-            border-radius: 50%;
-            border: 5px solid white;
-            object-fit: cover; /* Ensures the image covers the entire area */
-        }
-        .event-text {
-            background-color: #48227a;
-            padding: 15px;
-            border-radius: 10px;
-            width: 200px;
-        }
-        .left {
-            flex-direction: row-reverse;
-            text-align: left;
-        }
-        .right {
-            text-align: right;
-        }
-        .event.left .event-text {
-            margin-right: 20px;
-        }
-        .event.right .event-text {
-            margin-left: 20px;
-        }
-    </style>
-</head>
-<body>
-    <div class="timeline">
-        <div class="event left">
-            <img src="/images/blog_posts/2024_summer_camp_ceramics.jpeg" style="border-radius: 50%; width: 50%" alt="European Researchers Night">
-            <div class="event-text">
-                <h3>September 2022</h3>
-                <p>European Researchers Night</p>
-                <p>Champalimaud Foundation</p>
+    <head>
+        <!-- ...existing code... -->
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                background-color: #1a1440;
+                color: white;
+                text-align: center;
+            }
+            .timeline {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                position: relative;
+                padding: 20px;
+            }
+            .timeline::before {
+                content: "";
+                position: absolute;
+                width: 6px;
+                background-color: #d68fff;
+                top: 0;
+                bottom: 0;
+                left: 50%;
+                transform: translateX(-50%);
+            }
+            .event {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                width: 80%;
+                margin: 20px 0;
+                position: relative;
+            }
+            .event img {
+                width: 150px;
+                height: 150px;
+                border-radius: 50%;
+                border: 5px solid white;
+                object-fit: cover; /* Ensures the image covers the entire area */
+            }
+            .event-text {
+                background-color: #48227a;
+                padding: 15px;
+                border-radius: 10px;
+                width: 200px;
+            }
+            .left {
+                flex-direction: row-reverse;
+                text-align: left;
+            }
+            .right {
+                text-align: right;
+            }
+            .event.left .event-text {
+                margin-right: 20px;
+            }
+            .event.right .event-text {
+                margin-left: 20px;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="timeline">
+            <div class="event left">
+                <img src="/images/blog_posts/2024_summer_camp_ceramics.jpeg" alt="European Researchers Night">
+                <div class="event-text">
+                    <h3>September 2022</h3>
+                    <p>European Researchers Night</p>
+                    <p>Champalimaud Foundation</p>
+                </div>
+            </div>
+            <div class="event right">
+                <img src="/images/blog_posts/2024_summer_camp_ceramics.jpeg" alt="Brain Awareness Week">
+                <div class="event-text">
+                    <h3>March 2022</h3>
+                    <p>Brain Awareness Week</p>
+                    <p>Escola Pedro d’Orey da Cunha</p>
+                </div>
+            </div>
+            <div class="event left">
+                <img src="/images/blog_posts/2024_summer_camp_ceramics.jpeg" alt="Science & Street Art">
+                <div class="event-text">
+                    <h3>January 2022</h3>
+                    <p>Science & Street Art Workshop</p>
+                    <p>Junta Freguesia Águas Livres</p>
+                </div>
             </div>
         </div>
-        <div class="event right">
-            <img src="/images/blog_posts/2024_summer_camp_ceramics.jpeg" style="border-radius: 50%; width: 50%" alt="Brain Awareness Week">
-            <div class="event-text">
-                <h3>March 2022</h3>
-                <p>Brain Awareness Week</p>
-                <p>Escola Pedro d’Orey da Cunha</p>
-            </div>
-        </div>
-        <div class="event left">
-            <img src="/images/blog_posts/2024_summer_camp_ceramics.jpeg" style="border-radius: 50%; width: 50%" alt="Science & Street Art">
-            <div class="event-text">
-                <h3>January 2022</h3>
-                <p>Science & Street Art Workshop</p>
-                <p>Junta Freguesia Águas Livres</p>
-            </div>
-        </div>
-    </div>
-    <h2>2022</h2>
-</body>
+        <h2>2022</h2>
+    </body>
 </html>
-
