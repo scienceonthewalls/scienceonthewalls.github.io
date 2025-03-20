@@ -11,35 +11,35 @@ Over the last three years we have organised **>25 events**
 
 **Interactive workshops** on themes including:
 
-<table style="border-collapse: collapse; width: 100%;">
+<table style="border-collapse: separate; border-spacing: 10px; width: 100%; border: none;">
   <tr>
-    <td style="background-color: #e6e6fa; padding: 10px;">Physics of Music</td>
-    <td style="background-color: #d8bfd8; padding: 10px;">Artificial Intelligence</td>
-    <td style="background-color: #dda0dd; padding: 10px;">Ceramics</td>
-    <td style="background-color: #ee82ee; padding: 10px;">Virtual Reality</td>
+    <td style="background-color: rgb(202, 177, 255); padding: 10px; border-radius: 5px;">Physics of Music</td>
+    <td style="background-color: rgb(180, 145, 255); padding: 10px; border-radius: 5px;">Artificial Intelligence</td>
+    <td style="background-color: rgb(202, 177, 255); padding: 10px; border-radius: 5px;">Ceramics</td>
+    <td style="background-color: rgb(180, 145, 255); padding: 10px; border-radius: 5px;">Virtual Reality</td>
   </tr>
   <tr>
-    <td style="background-color: #da70d6; padding: 10px;">Serigraphy</td>
-    <td style="background-color: #ba55d3; padding: 10px;">Biology and chemistry labs</td>
-    <td style="background-color: #9932cc; padding: 10px;">Street Art</td>
-    <td style="background-color: #8a2be2; padding: 10px;">Interviews with scientists</td>
+    <td style="background-color: rgb(180, 145, 255); padding: 10px; border-radius: 5px;">Serigraphy</td>
+    <td style="background-color: rgb(202, 177, 255); padding: 10px; border-radius: 5px;">Biology and chemistry labs</td>
+    <td style="background-color: rgb(180, 145, 255); padding: 10px; border-radius: 5px;">Street Art</td>
+    <td style="background-color: rgb(202, 177, 255); padding: 10px; border-radius: 5px;">Interviews with scientists</td>
   </tr>
 </table>
 
 **Educational visits** including trips to:
 
-<table style="border-collapse: collapse; width: 100%;">
+<table style="border-collapse: separate; border-spacing: 10px; width: 100%; border: none;">
   <tr>
-    <td style="background-color: #e6e6fa; padding: 10px;">Oceanario aquarium</td>
-    <td style="background-color: #d8bfd8; padding: 10px;">Scuba diving experience</td>
-    <td style="background-color: #dda0dd; padding: 10px;">Champalimaud Foundation Labs</td>
-    <td style="background-color: #ee82ee; padding: 10px;">European Researchers Night</td>
+    <td style="background-color: rgb(202, 177, 255); padding: 10px; border-radius: 5px;">Oceanario aquarium</td>
+    <td style="background-color: rgb(180, 145, 255); padding: 10px; border-radius: 5px;">Scuba diving experience</td>
+    <td style="background-color: rgb(202, 177, 255); padding: 10px; border-radius: 5px;">Champalimaud Foundation Labs</td>
+    <td style="background-color: rgb(180, 145, 255); padding: 10px; border-radius: 5px;">European Researchers Night</td>
   </tr>
   <tr>
-    <td style="background-color: #da70d6; padding: 10px;">Zoological Gardens</td>
-    <td style="background-color: #ba55d3; padding: 10px;">Metamersion AI exhibition at The Warehouse</td>
-    <td style="background-color: #9932cc; padding: 10px;">Rock pooling with Marine Biologists at Avencas</td>
-    <td style="background-color: #8a2be2; padding: 10px;"></td>
+    <td style="background-color: rgb(180, 145, 255); padding: 10px; border-radius: 5px;">Zoological Gardens</td>
+    <td style="background-color: rgb(202, 177, 255); padding: 10px; border-radius: 5px;">Metamersion AI exhibition at The Warehouse</td>
+    <td style="background-color: rgb(180, 145, 255); padding: 10px; border-radius: 5px;">Rock pooling with Marine Biologists at Avencas</td>
+    <!-- <td style="background-color: rgb(202, 177, 255); padding: 10px; border-radius: 5px;"></td> -->
   </tr>
 </table>
 
