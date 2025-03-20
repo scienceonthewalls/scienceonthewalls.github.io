@@ -1,0 +1,98 @@
+---
+layout: default
+permalink: /test_page/
+title: "Test Page not in menu"
+author_profile: true
+redirect_from: 
+  - "/testp/"
+  - "/testp.html"
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Science on the Walls</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f8f8;
+        }
+        .container {
+            display: flex;
+            flex-direction: column;
+            max-width: 900px;
+            margin: auto;
+            padding: 20px;
+        }
+        .section {
+            display: flex;
+            align-items: center;
+            margin-bottom: 40px;
+        }
+        .text {
+            flex: 1;
+            padding-right: 20px;
+        }
+        .text h2 {
+            color: #6A40D3;
+        }
+        .text strong {
+            font-weight: bold;
+        }
+        .image {
+            flex: 1;
+        }
+        .image img {
+            width: 100%;
+            border-radius: 10px;
+        }
+        @media (max-width: 768px) {
+            .section {
+                flex-direction: column;
+                text-align: center;
+            }
+            .text {
+                padding-right: 0;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="section">
+            <div class="text">
+                <h2>Building scientific literacy</h2>
+                <p>Science on the Walls helps to bridge educational gaps, ensuring equal opportunities for all.</p>
+                <p>We empower individuals to make informed decisions, by fostering <strong>critical thinking and innovation.</strong></p>
+            </div>
+            <div class="image">
+                <img src="/images/blog_posts/2024_summer_camp_ceramics.jpeg" style="width: 50%" alt="VR Learning">
+            </div>
+        </div>
+
+        <div class="section">
+            <div class="text">
+                <h2>Shaping the next generation of diverse scientists</h2>
+                <p>Science on the Walls offers a framework to cultivate the <strong>diverse scientific minds</strong> we need to face future challenges and contribute to scientific and technological advancements.</p>
+            </div>
+            <div class="image">
+                <img src="/images/blog_posts/2024_summer_camp_ceramics.jpeg" style="width: 50%" alt="Kids learning science">
+            </div>
+        </div>
+
+        <div class="section">
+            <div class="text">
+                <h2>Promoting cultural and knowledge exchange</h2>
+                <p>Science on the Walls harnesses the accessibility and excitement of street art to <strong>break down barriers</strong> to scientific and cultural knowledge and enhance <strong>social mobility.</strong></p>
+            </div>
+            <div class="image">
+                <img src="/images/blog_posts/2024_summer_camp_ceramics.jpeg" style="width: 50%" alt="Street art project">
+            </div>
+        </div>
+    </div>
+</body>
+</html>
