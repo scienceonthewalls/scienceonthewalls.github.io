@@ -19,6 +19,9 @@ main:
   
   - title: "Our Events"
     url: /events/
+  
+  - title: "Our History"
+    url: /timeline/
 
   # - title: "Portfolio"
   #   url: /portfolio/

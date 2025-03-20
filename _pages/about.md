@@ -42,3 +42,20 @@ Who are we?
 * 3 neighbourhood associations in Cova da Moura
 * \> 60 scientists from institutes in Lisbon
 * Professional artists
+
+
+Want to collaborate?
+======
+
+
+<div style="background-color:rgb(202, 177, 255); padding: 5px; color: #400868; text-align: left; border-radius: 15px; margin: 0px 20px 20px 20px;">
+  <p style="margin-top: 5px;margin-bottom: 5px;">
+    We are looking for collaborations and sponsors!
+    If you are interested, leave your contact details in this <a href="https://docs.google.com/forms/d/e/1FAIpQLSfOI8H3haxp8JehcLqEXyI9n93dEOfjpNkAUIRq6KYkN71Z8A/viewform?usp=sf_link" target="_blank">Google Form</a>.</p>
+</div>
+
+<div style="background-color:rgb(202, 177, 255); padding: 5px; color: #400868; text-align: left; border-radius: 15px; margin: 0px 20px 0px 20px;">
+  <p style="margin-top: 5px;margin-bottom: 5px;">
+    If you would like to volunteer, join our Whatsapp <strong><i>Friends of Science on the Walls</i></strong> below!
+  </p>
+</div>
