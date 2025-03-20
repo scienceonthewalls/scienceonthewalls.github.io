@@ -13,6 +13,37 @@ Our organisational team is split into three branches: scientific, artistic, and 
 Core scientific team
 -------
 
+<!-- | ![Profile 1](/images/blog_posts/2024_summer_camp_ceramics.jpeg) | ![Profile 2](/images/blog_posts/2024_summer_camp_ceramics.jpeg) | ![Profile 3](/images/blog_posts/2024_summer_camp_ceramics.jpeg) |
+|------------------------------------|------------------------------------|------------------------------------|
+| Name 1                             | Name 2                             | Name 3                             |
+| Role 1                             | Role 2                             | Role 3                             | -->
+
+
+<table style="border-collapse: collapse; width: 100%; text-align: center; border: none;">
+  <tr>
+    <td style="border: none;"><img src="/images/blog_posts/2024_summer_camp_ceramics.jpeg" alt="Profile 1" style="border-radius: 10%; width: 100px; height: 100px;"></td>
+    <td style="border: none;"><img src="/images/blog_posts/2024_summer_camp_ceramics.jpeg" alt="Profile 2" style="border-radius: 10%; width: 100px; height: 100px;"></td>
+    <td style="border: none;"><img src="/images/blog_posts/2024_summer_camp_ceramics.jpeg" alt="Profile 3" style="border-radius: 10%; width: 100px; height: 100px;"></td>
+    <td style="border: none;"><img src="/images/blog_posts/2024_summer_camp_ceramics.jpeg" alt="Profile 4" style="border-radius: 10%; width: 100px; height: 100px;"></td>
+    <td style="border: none;"><img src="/images/blog_posts/2024_summer_camp_ceramics.jpeg" alt="Profile 5" style="border-radius: 10%; width: 100px; height: 100px;"></td>
+  </tr>
+  <tr>
+    <td style="border: none;">Name 1</td>
+    <td style="border: none;">Name 2</td>
+    <td style="border: none;">Name 3</td>
+    <td style="border: none;">Name 4</td>
+    <td style="border: none;">Name 5</td>
+  </tr>
+  <tr>
+    <td style="border: none;">Role 1</td>
+    <td style="border: none;">Role 2</td>
+    <td style="border: none;">Role 3</td>
+    <td style="border: none;">Role 4</td>
+    <td style="border: none;">Role 5</td>
+  </tr>
+</table>
+
+
 Core community team
 -------
 
