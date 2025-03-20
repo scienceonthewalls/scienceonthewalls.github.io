@@ -27,6 +27,8 @@ redirect_from:
                 align-items: center;
                 position: relative;
                 padding: 20px;
+                width: 100%; /* Make the timeline wider */
+                margin: 0 auto; /* Center the timeline */
             }
             .timeline::before {
                 content: "";
@@ -42,13 +44,13 @@ redirect_from:
                 display: flex;
                 align-items: center;
                 justify-content: center;
-                width: 80%;
+                width: 100%; /* Make the events take full width */
                 margin: 20px 0;
                 position: relative;
             }
             .event img {
-                width: 150px;
-                height: 150px;
+                width: 200px; /* Increase the size of the circles */
+                height: 200px; /* Increase the size of the circles */
                 border-radius: 50%;
                 border: 5px solid white;
                 object-fit: cover; /* Ensures the image covers the entire area */
@@ -57,7 +59,7 @@ redirect_from:
                 background-color: #48227a;
                 padding: 15px;
                 border-radius: 10px;
-                width: 200px;
+                width: 350px; /* Increase the width of the event text */
             }
             .left {
                 flex-direction: row-reverse;
@@ -83,6 +85,9 @@ redirect_from:
                     <p>European Researchers Night</p>
                     <p>Champalimaud Foundation</p>
                 </div>
+            </div>
+            <div class="event right">
+                <img src="/images/blog_posts/2024_summer_camp_ceramics.jpeg" alt="Brain Awareness Week">
             </div>
             <div class="event right">
                 <img src="/images/blog_posts/2024_summer_camp_ceramics.jpeg" alt="Brain Awareness Week">
