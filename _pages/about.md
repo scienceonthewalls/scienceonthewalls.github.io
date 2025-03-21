@@ -7,6 +7,9 @@ redirect_from:
   - /about.html
 ---
 
+<div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
+  <img src="/images/homepage/homepage.jpeg" alt="Cova da Moura Street" style="width: 95%; height: 350px; object-fit: cover;">
+</div>
 
 <div style="background-color:rgb(202, 177, 255); padding: 5px; color: #400868; text-align: center; border-radius: 15px; margin-bottom: 20px;">
   <h2 style="margin-top: 0;">Our Vision</h2>
@@ -18,7 +21,7 @@ redirect_from:
   <p>Researchers and artists uniting efforts to build bridges across communities and provide arts and science education to children.</p>
 </div>
 
-<div style="background-color:rgb(169, 130, 255); padding: 5px; color: #400868; text-align: center; border-radius: 15px; margin-bottom: 20px;">
+<div style="background-color:rgb(169, 130, 255); padding: 5px; color: #400868; text-align: center; border-radius: 15px; margin-bottom: 15px;">
   <h2 style="margin-top: 0;">Our Values</h2>
   <p>Equality - Purpose - Co-construction - Drive the change</p>
 </div>
@@ -30,8 +33,8 @@ What is Science on the Walls?
 Science on the Walls works to provide events that foster **knowledge exchange** between the communities of Cova da Moura, Amadora and scientific institutions in Greater Lisbon by **combining science and art**.
 
 <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
-  <img src="/images/blog_posts/2024_summer_camp_ceramics.jpeg" alt="Cova da Moura Street" style="width: 45%;">
-  <img src="/images/blog_posts/2024_summer_camp_ceramics.jpeg" alt="Scientific Institution" style="width: 45%;">
+  <img src="/images/homepage/cdm.jpeg" alt="Cova da Moura Street" style="width: 45%; border-radius: 5%;">
+  <img src="/images/homepage/cf.jpeg" alt="Scientific Institution" style="width: 45%; border-radius: 5%;">
 </div>
 
 
