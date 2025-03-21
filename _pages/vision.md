@@ -29,5 +29,6 @@ redirect_from:
     <h2 style="margin-top: 0;">Promoting cultural and knowledge exchange</h2>
     <p>Science on the Walls harnesses the accessibility and excitement of street art to <strong>break down barriers</strong> to scientific and cultural knowledge and enhance <strong>social mobility</strong>.</p>
   </div>
-  <img src="/images/blog_posts/2024_summer_camp_ceramics.jpeg" alt="Promoting cultural and knowledge exchange" style="width: 150px; margin-left: 20px; border-radius: 10px;">
+  <!-- <img src="/images/blog_posts/2024_summer_camp_ceramics.jpeg" alt="Promoting cultural and knowledge exchange" style="width: 250px; margin-left: 20px; border-radius: 10px;"> -->
+  <img src="/images/vision/murial_pic.png" alt="Promoting cultural and knowledge exchange" style="width: 250px; margin-left: 20px; border-radius: 10px;">
 </div>
