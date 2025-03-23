@@ -18,4 +18,4 @@ Over the last three years we have:
 
 * Received support from Freguesia de Águas Livres and Champalimaud Foundation and **secured competitive funding** from Animal Research Tomorrow (Basel Declaration), and MSCA & Citizens (EU Commission), in the context of RAISE - Researchers in Action for Inclusion in Science Education consortium.
 
-<img src="/images/blog_posts/2024_summer_camp_ceramics.jpeg" alt="Shaping the next generation of diverse scientists" style="border-radius: 10px; clip-path: inset(0 0 60% 0);">
+<img src="/images/homepage/scuba.png" alt="Shaping the next generation of diverse scientists" style="border-radius: 10px;">

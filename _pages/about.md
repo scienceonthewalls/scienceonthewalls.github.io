@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
-  <img src="/images/homepage/homepage.jpeg" alt="Cova da Moura Street" style="width: 95%; height: 350px; object-fit: cover;">
+  <img src="/images/homepage/homepage.jpeg" alt="Cova da Moura Street" style="width: 98%;height: 350px; object-fit: cover;">
 </div>
 
 <div style="background-color:rgb(202, 177, 255); padding: 5px; color: #400868; text-align: center; border-radius: 15px; margin-bottom: 20px;">
@@ -33,8 +33,8 @@ What is Science on the Walls?
 Science on the Walls works to provide events that foster **knowledge exchange** between the communities of Cova da Moura, Amadora and scientific institutions in Greater Lisbon by **combining science and art**.
 
 <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
-  <img src="/images/homepage/cdm.jpeg" alt="Cova da Moura Street" style="width: 45%; border-radius: 5%;">
-  <img src="/images/homepage/cf.jpeg" alt="Scientific Institution" style="width: 45%; border-radius: 5%;">
+  <img src="/images/homepage/cdm.jpeg" alt="Cova da Moura Street" style="border: 5px solid rgb(184, 151, 255); width: 45%; border-radius: 5%;">
+  <img src="/images/homepage/cf.jpeg" alt="Scientific Institution" style="border: 5px solid rgb(184, 151, 255); width: 45%; border-radius: 5%;">
 </div>
 
 
@@ -62,3 +62,22 @@ Want to collaborate?
     If you would like to volunteer, join our Whatsapp <strong><i>Friends of Science on the Walls</i></strong> below!
   </p>
 </div>
+
+Previous supporter
+----
+
+<!-- Table of sponsors each cell is a thumbnail -->
+
+<table style="border-collapse: collapse; width: 100%; text-align: center; border: none;">
+  <tr>
+    <td style="border: none;"><img src="/images/homepage/sponsors/sponsor.png" alt="img1" style="border-radius: 50%; width: 90px; height: 90px;"></td>
+    <td style="border: none;"><img src="/images/homepage/sponsors/moinho.png" alt="img1" style="border-radius: 50%; width: 90px; height: 90px;"></td>
+    <td style="border: none;"><img src="/images/homepage/sponsors/agua_livre.png" alt="img1" style="border-radius: 50%; width: 90px; height: 90px;"></td>
+    <td style="border: none;"><img src="/images/homepage/sponsors/ART.png" alt="img1" style="border-radius: 50%; width: 90px; height: 90px;"></td>
+    <td style="border: none;"><img src="/images/homepage/sponsors/CF.png" alt="img1" style="border-radius: 50%; width: 90px; height: 90px;"></td>
+    <td style="border: none;"><img src="/images/homepage/sponsors/g18.png" alt="img1" style="border-radius: 50%; width: 90px; height: 90px;"></td>
+    <td style="border: none;"><img src="/images/homepage/sponsors/raise.png" alt="img1" style="border-radius: 50%; width: 90px; height: 90px;"></td>
+  </tr>
+</table>
+
+

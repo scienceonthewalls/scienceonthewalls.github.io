@@ -21,11 +21,11 @@ Core scientific team
 
 <table style="border-collapse: collapse; width: 100%; text-align: center; border: none;">
   <tr>
-    <td style="border: none;"><img src="/images/team/propics/marga.png" alt="Margarida" style="border-radius: 10%; width: 100px; height: 100px;"></td>
-    <td style="border: none;"><img src="/images/team/propics/bernilde.png" alt="Bernilde" style="border-radius: 10%; width: 100px; height: 100px;"></td>
-    <td style="border: none;"><img src="/images/team/propics/vio.png" alt="Violetta" style="border-radius: 10%; width: 100px; height: 100px;"></td>
-    <td style="border: none;"><img src="/images/team/propics/rory.png" alt="Rory" style="border-radius: 10%; width: 100px; height: 100px;"></td>
-    <td style="border: none;"><img src="/images/team/propics/joao.png" alt="João" style="border-radius: 10%; width: 100px; height: 100px;"></td>
+    <td style="border: none;"><img src="/images/team/v2/marga.png" alt="Margarida" style="border-radius: 10%; width: 100px; height: 100px;"></td>
+    <td style="border: none;"><img src="/images/team/v2/bernilde.png" alt="Bernilde" style="border-radius: 10%; width: 100px; height: 100px;"></td>
+    <td style="border: none;"><img src="/images/team/v2/vio.png" alt="Violetta" style="border-radius: 10%; width: 100px; height: 100px;"></td>
+    <td style="border: none;"><img src="/images/team/v2/rory.png" alt="Rory" style="border-radius: 10%; width: 100px; height: 100px;"></td>
+    <td style="border: none;"><img src="/images/team/v2/joao.png" alt="João" style="border-radius: 10%; width: 100px; height: 100px;"></td>
   </tr>
   <tr>
     <td style="border: none;">Margarida</td>
@@ -46,11 +46,11 @@ Core scientific team
 
 <table style="border-collapse: collapse; width: 100%; text-align: center; border: none;">
   <tr>
-    <td style="border: none;"><img src="/images/team/propics/denise.png" alt="Denise" style="border-radius: 10%; width: 100px; height: 100px;"></td>
-    <td style="border: none;"><img src="/images/team/propics/cat.png" alt="Cat" style="border-radius: 10%; width: 100px; height: 100px;"></td>
-    <td style="border: none;"><img src="/images/team/propics/tom.png" alt="Tom" style="border-radius: 10%; width: 100px; height: 100px;"></td>
-    <td style="border: none;"><img src="/images/team/propics/char.png" alt="Charlotte" style="border-radius: 10%; width: 100px; height: 100px;"></td>
-    <td style="border: none;"><img src="/images/team/propics/cleus.png" alt="Cleusia" style="border-radius: 10%; width: 100px; height: 100px;"></td>
+    <td style="border: none;"><img src="/images/team/v2/denise.png" alt="Denise" style="border-radius: 10%; width: 100px; height: 100px;"></td>
+    <td style="border: none;"><img src="/images/team/v2/cat.png" alt="Cat" style="border-radius: 10%; width: 100px; height: 100px;"></td>
+    <td style="border: none;"><img src="/images/team/v2/tom.png" alt="Tom" style="border-radius: 10%; width: 100px; height: 100px;"></td>
+    <td style="border: none;"><img src="/images/team/v2/char.png" alt="Charlotte" style="border-radius: 10%; width: 100px; height: 100px;"></td>
+    <td style="border: none;"><img src="/images/team/v2/cleus.png" alt="Cleusia" style="border-radius: 10%; width: 100px; height: 100px;"></td>
   </tr>
   <tr>
     <td style="border: none;">Denise</td>
@@ -75,11 +75,11 @@ Core community team
 
 <table style="border-collapse: collapse; width: 100%; text-align: center; border: none;">
   <tr>
-    <td style="border: none;"><img src="/images/team/propics/manuel.png" alt="Emanuel" style="border-radius: 10%; width: 100px; height: 100px;"></td>
-    <td style="border: none;"><img src="/images/team/propics/sofia.png" alt="Sofia" style="border-radius: 10%; width: 100px; height: 100px;"></td>
-    <td style="border: none;"><img src="/images/team/propics/lied.png" alt="Liedson" style="border-radius: 10%; width: 100px; height: 100px;"></td>
-    <td style="border: none;"><img src="/images/team/propics/paulo.png" alt="Paulo" style="border-radius: 10%; width: 100px; height: 100px;"></td>
-    <td style="border: none;"><img src="/images/team/propics/carlos.png" alt="Carlos" style="border-radius: 10%; width: 100px; height: 100px;"></td>
+    <td style="border: none;"><img src="/images/team/v2/manuel.png" alt="Emanuel" style="border-radius: 10%; width: 100px; height: 100px;"></td>
+    <td style="border: none;"><img src="/images/team/v2/sofia.png" alt="Sofia" style="border-radius: 10%; width: 100px; height: 100px;"></td>
+    <td style="border: none;"><img src="/images/team/v2/lied.png" alt="Liedson" style="border-radius: 10%; width: 100px; height: 100px;"></td>
+    <td style="border: none;"><img src="/images/team/v2/paulo.png" alt="Paulo" style="border-radius: 10%; width: 100px; height: 100px;"></td>
+    <td style="border: none;"><img src="/images/team/v2/carlos.png" alt="Carlos" style="border-radius: 10%; width: 100px; height: 100px;"></td>
   </tr>
   <tr>
     <td style="border: none;">Emanuel</td>
@@ -97,9 +97,9 @@ Core artistic team
 
 <table style="border-collapse: collapse; width: 60%; text-align: center; border: none;">
   <tr>
-    <td style="border: none;"><img src="/images/team/propics/rodrigo.png" alt="Rogerio" style="border-radius: 10%; width: 100px; height: 100px;"></td>
-    <td style="border: none;"><img src="/images/team/propics/milad.png" alt="Milad" style="border-radius: 10%; width: 100px; height: 100px;"></td>
-    <td style="border: none;"><img src="/images/team/propics/giu.png" alt="Giuliano" style="border-radius: 10%; width: 100px; height: 100px;"></td>
+    <td style="border: none;"><img src="/images/team/v2/rodrigo.png" alt="Rogerio" style="border-radius: 10%; width: 100px; height: 100px;"></td>
+    <td style="border: none;"><img src="/images/team/v2/milad.png" alt="Milad" style="border-radius: 10%; width: 100px; height: 100px;"></td>
+    <td style="border: none;"><img src="/images/team/v2/giu.png" alt="Giuliano" style="border-radius: 10%; width: 100px; height: 100px;"></td>
     <td style="border: none;"> </td>
     <td style="border: none;"> </td>
   </tr>
