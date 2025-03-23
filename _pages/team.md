@@ -22,14 +22,14 @@ Core scientific team
 <table style="border-collapse: collapse; width: 100%; text-align: center; border: none;">
   <tr>
     <td style="border: none;"><img src="/images/team/v2/marga.png" alt="Margarida" style="border-radius: 10%; width: 100px; height: 100px;"></td>
-    <td style="border: none;"><img src="/images/team/v2/bernilde.png" alt="Bernilde" style="border-radius: 10%; width: 100px; height: 100px;"></td>
+    <td style="border: none;"><img src="/images/team/v2/bernilde.png" alt="Benilde" style="border-radius: 10%; width: 100px; height: 100px;"></td>
     <td style="border: none;"><img src="/images/team/v2/vio.png" alt="Violetta" style="border-radius: 10%; width: 100px; height: 100px;"></td>
     <td style="border: none;"><img src="/images/team/v2/rory.png" alt="Rory" style="border-radius: 10%; width: 100px; height: 100px;"></td>
     <td style="border: none;"><img src="/images/team/v2/joao.png" alt="João" style="border-radius: 10%; width: 100px; height: 100px;"></td>
   </tr>
   <tr>
     <td style="border: none;">Margarida</td>
-    <td style="border: none;">Bernilde</td>
+    <td style="border: none;">Benilde</td>
     <td style="border: none;">Violetta</td>
     <td style="border: none;">Rory</td>
     <td style="border: none;">João</td>
@@ -104,7 +104,7 @@ Core artistic team
     <td style="border: none;"> </td>
   </tr>
   <tr>
-    <td style="border: none;">Rogerio</td>
+    <td style="border: none;">Rogério</td>
     <td style="border: none;">Milad</td>
     <td style="border: none;">Giuliano</td>
     <td style="border: none;"> </td>
