@@ -13,9 +13,9 @@ title                    : "Science on the Walls"
 title_separator          : "-"
 name                     : &name "Science on the Walls"
 description              : &description "personal description"
-url                      : https://scienceonthewalls/sotw-webpage.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://scienceonthewalls.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/scienceonthewalls/sotw-webpage"
+repository               : "https://github.com/scienceonthewalls/scienceonthewalls.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
