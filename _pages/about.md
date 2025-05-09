@@ -27,8 +27,7 @@ redirect_from:
 </div>
 
 <div style="text-align: center; margin-bottom: 20px;">
-  <!-- <video width="560" height="315" controls> -->
-  <video style="width: 95%; object-fit: cover;">
+  <video style="width: 95%; object-fit: cover;" controls controlslist="nodownload">
       <source src="/images/videos/IntroSOTW.mp4" type="video/mp4">
       Your browser does not support the video tag.
   </video>
