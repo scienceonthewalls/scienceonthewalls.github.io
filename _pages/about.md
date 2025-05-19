@@ -69,6 +69,10 @@ Want to collaborate?
   </p>
 </div>
 
+<div style="display: flex; justify-content: center; margin-bottom: 20px;">
+  <img src="/images/homepage/friendofsotw.png" alt="Cova da Moura Street" style="border: 5px solid rgb(184, 151, 255); width: 25%; border-radius: 5%;">
+</div>
+
 Previous supporter
 ----
 
