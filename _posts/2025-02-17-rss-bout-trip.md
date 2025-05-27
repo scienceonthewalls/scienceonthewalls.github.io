@@ -19,6 +19,6 @@ We asked all the important questions:
 🍽️ What do they eat for 9 weeks at sea? (Answer: delicious English food, thanks to their onboard chef!)
 We also discovered that if the GPS fails, they can navigate using the stars—a skill as timeless as the ocean itself. ✨🌍
 
-A huge thank you to the National Oceanography Centre, British Council, and the British Embassy Lisbon for making this experience possible! 🙌 We had a fantastic guided tour, met the captain, enjoyed some snacks, and left with amazing keepsakes—stickers, drawings, postcards, and even a water bottle!
+A huge thank you to the National Oceanography Centre, [British Council](https://www.britishcouncil.pt/), and the [British Embassy Lisbon](https://www.gov.uk/world/organisations/british-embassy-lisbon/office/british-embassy-lisbon) for making this experience possible! 🙌 We had a fantastic guided tour, met the captain, enjoyed some snacks, and left with amazing keepsakes—stickers, drawings, postcards, and even a water bottle!
 
 ======
