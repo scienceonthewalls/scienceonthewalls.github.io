@@ -1,7 +1,6 @@
 ---
 title: 'Research boat trip'
 date: 2025-02-17
-permalink: /posts/2025/02/rss-boat-trip/
 layout: post
 tags:
   - Away-day
