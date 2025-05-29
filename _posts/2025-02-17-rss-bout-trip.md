@@ -1,7 +1,8 @@
 ---
 title: 'Research boat trip'
 date: 2025-02-17
-permalink: /posts/2025/02/rss-bout-trip/
+permalink: /posts/2025/02/rss-boat-trip/
+layout: post
 tags:
   - Away-day
   - British Council
@@ -21,4 +22,4 @@ We also discovered that if the GPS fails, they can navigate using the stars—a 
 
 A huge thank you to the National Oceanography Centre, British Council, and the British Embassy Lisbon for making this experience possible! 🙌 We had a fantastic guided tour, met the captain, enjoyed some snacks, and left with amazing keepsakes—stickers, drawings, postcards, and even a water bottle!
 
-======
+---
