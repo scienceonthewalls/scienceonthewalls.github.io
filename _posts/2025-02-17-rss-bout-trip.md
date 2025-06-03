@@ -1,7 +1,6 @@
 ---
 title: 'Research boat trip'
 date: 2025-02-17
-layout: post
 tags:
   - Away-day
   - British Council
