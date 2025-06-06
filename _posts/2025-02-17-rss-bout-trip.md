@@ -20,4 +20,7 @@ We also discovered that if the GPS fails, they can navigate using the stars—a 
 
 A huge thank you to the National Oceanography Centre, British Council, and the British Embassy Lisbon for making this experience possible! 🙌 We had a fantastic guided tour, met the captain, enjoyed some snacks, and left with amazing keepsakes—stickers, drawings, postcards, and even a water bottle!
 
----
+<br/>
+<div style="width: 50%; overflow: hidden;">
+  <img src='/images/blog_posts/2024_RRS.HEIC' style="width: 100%; border: 5px solid rgb(184, 151, 255); border-radius: 5%;">
+</div>
