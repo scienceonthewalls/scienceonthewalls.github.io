@@ -1,5 +1,5 @@
 ---
-title: 'Ecology Camp 2025'
+title: 'Ecology Camp 2025 Day 1'
 date: 2025-04-12
 permalink: /posts/2025/04/easter-camp-ecology/
 excerpt: "Ecology day at Easter holiday Camp <br/><img src='/images/blog_posts/2025_04_water_filter_1.jpg' style='width: 50%;'>" 
