@@ -1,0 +1,16 @@
+---
+title: 'Ecology Camp 2025 Day 1'
+date: 2025-04-12
+permalink: /posts/2025/04/easter-camp-ecology/
+excerpt: "Ecology day at Easter holiday Camp <br/><img src='/images/blog_posts/2025_04_water_filter_1.jpg' style='width: 50%;'>" 
+tags:
+  - Easter Camp
+  - Ecology
+  - Cova da Moura
+---
+
+We kicked off our Easter camp by teaming up with our friends at Eco-estilistas for a day all about ecosystems and how to protect them. This started with a street cleaning expedition around the neighborhood, then workshops on clean water systems, photosynthesis, and the importance of invertebrates for healthy soil.
+
+<div style="width: 50%; overflow: hidden; center;">
+  <img src='/images/blog_posts/2025_04_water_filter_1.jpg' style="width: 100%; margin-top: -80px; border: 5px solid rgb(184, 151, 255); border-radius: 5%;">
+</div>
