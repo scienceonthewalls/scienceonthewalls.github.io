@@ -2,7 +2,7 @@
 title: 'Planning this year summer camp with the theme of Good-Health'
 date: 2025-06-02
 permalink: /posts/2025/6/summer-plan/
-excerpt: "This year, we're crafting a health-themed summer camp that combines nutrition, movement, and wellness." 
+excerpt: "This year, we're crafting a health-themed summer camp that combines nutrition, movement, and mental wellbeing" 
 tags:
   - Planning
   - Core team
