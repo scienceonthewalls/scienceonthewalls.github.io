@@ -59,7 +59,7 @@ Core scientific team
     <td style="border: none;">Denise</td>
     <td style="border: none;">Catarina</td>
     <td style="border: none;">Tom</td>
-    <td style="border: none;">Charlotte</td>
+    <td style="border: none;">Charlie</td>
     <td style="border: none;">Cleusia</td>
     <td style="border: none;">Jorge</td>
   </tr>
