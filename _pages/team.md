@@ -26,6 +26,7 @@ Core scientific team
     <td style="border: none;"><img src="/images/team/v2/vio.png" alt="Violetta" style="border-radius: 10%; width: 100px; height: 100px;"></td>
     <td style="border: none;"><img src="/images/team/v2/rory.png" alt="Rory" style="border-radius: 10%; width: 100px; height: 100px;"></td>
     <td style="border: none;"><img src="/images/team/v2/joao.png" alt="João" style="border-radius: 10%; width: 100px; height: 100px;"></td>
+    <td style="border: none;"><img src="/images/team/v2/manny.png" alt="João" style="border-radius: 10%; width: 100px; height: 100px;"></td>
   </tr>
   <tr>
     <td style="border: none;">Margarida</td>
@@ -33,6 +34,7 @@ Core scientific team
     <td style="border: none;">Violetta</td>
     <td style="border: none;">Rory</td>
     <td style="border: none;">João</td>
+    <td style="border: none;">Manuel</td>
   </tr>
   <!-- <tr>
     <td style="border: none;">Role 1</td>
@@ -51,6 +53,7 @@ Core scientific team
     <td style="border: none;"><img src="/images/team/v2/tom.png" alt="Tom" style="border-radius: 10%; width: 100px; height: 100px;"></td>
     <td style="border: none;"><img src="/images/team/v2/char.png" alt="Charlotte" style="border-radius: 10%; width: 100px; height: 100px;"></td>
     <td style="border: none;"><img src="/images/team/v2/cleus.png" alt="Cleusia" style="border-radius: 10%; width: 100px; height: 100px;"></td>
+    <td style="border: none;"><img src="/images/team/v2/jorge.jpg" alt="Jorge" style="border-radius: 10%; width: 100px; height: 100px;"></td>
   </tr>
   <tr>
     <td style="border: none;">Denise</td>
@@ -58,6 +61,7 @@ Core scientific team
     <td style="border: none;">Tom</td>
     <td style="border: none;">Charlotte</td>
     <td style="border: none;">Cleusia</td>
+    <td style="border: none;">Jorge</td>
   </tr>
   <!-- <tr>
     <td style="border: none;">Role 1</td>
