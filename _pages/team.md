@@ -53,7 +53,7 @@ Our organisational team is split into three branches: scientific, artistic, and 
   </div>
   <div>
     <img src="/images/team/v2/char.png" alt="Charlie" style="border-radius: 10%; width: 100%; max-width: 120px; height: auto;">
-    <div>Charlotte</div>
+    <div>Charlie</div>
   </div>
   <div>
     <img src="/images/team/v2/cleus.png" alt="Cleusia" style="border-radius: 10%; width: 100%; max-width: 120px; height: auto;">
@@ -65,7 +65,7 @@ Our organisational team is split into three branches: scientific, artistic, and 
   </div>
   <div>
     <img src="/images/team/v2/manny.png" alt="Manny" style="border-radius: 10%; width: 100%; max-width: 120px; height: auto;">
-    <div>Manny</div>
+    <div>Manuel</div>
   </div>
 </div>
 
