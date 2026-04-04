@@ -67,6 +67,10 @@ Our organisational team is split into three branches: scientific, artistic, and 
     <img src="/images/team/v2/manny.png" alt="Manny" style="border-radius: 10%; width: 100%; max-width: 120px; height: auto;">
     <div>Manuel</div>
   </div>
+  <div>
+    <img src="/images/team/v2/imaan.jpg" alt="Imaan" style="border-radius: 10%; width: 100%; max-width: 120px; height: auto;">
+    <div>Imaan</div>
+  </div>
 </div>
 
 <h2>Core community team</h2>
@@ -90,6 +94,10 @@ Our organisational team is split into three branches: scientific, artistic, and 
   <div>
     <img src="/images/team/v2/carlos.png" alt="Carlos" style="border-radius: 10%; width: 100%; max-width: 120px; height: auto;">
     <div>Carlos</div>
+  </div>
+  <div>
+    <img src="/images/team/v2/antonio.jpg" alt="Antonio" style="border-radius: 10%; width: 100%; max-width: 120px; height: auto;">
+    <div>Antonio</div>
   </div>
 </div>
 
